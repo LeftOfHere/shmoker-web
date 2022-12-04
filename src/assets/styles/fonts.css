@@ -1,0 +1,12 @@
+
+  @font-face {
+    font-family: 'thesigniture';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/Thesignature.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('../fonts/Thesignature.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/Thesignature.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/Thesignature.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/Thesignature.ttf') format('truetype'), /* Safari, Android, iOS */
+  }
